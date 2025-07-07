@@ -729,19 +729,6 @@ Whether you're a student learning heat transfer principles, an engineer designin
 
 ---
 
-## References and Further Reading
-
-### Textbooks
-1. Incropera, F.P. & DeWitt, D.P. "Fundamentals of Heat and Mass Transfer"
-2. Holman, J.P. "Heat Transfer"
-3. Kakac, S. & Liu, H. "Heat Exchangers: Selection, Rating, and Thermal Design"
-
-### Standards and Codes
-- TEMA (Tubular Exchanger Manufacturers Association) Standards
-- ASME Boiler and Pressure Vessel Code
-- API 660 - Shell and Tube Heat Exchangers
-
-### Online Resources
 - NIST Webbook for fluid properties
 - Engineering toolbox for property data
 - Heat transfer correlation databases
