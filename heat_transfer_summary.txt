@@ -1,0 +1,23 @@
+=== HEAT EXCHANGER ANALYSIS SUMMARY ===
+
+Geometry:
+  Length: 10 m
+  Shell diameter: 20 m
+  Tube diameter: 2 m
+  Number of tubes: 10
+  Wall thermal conductivity: 45 W/m·K
+
+Calculated Parameters:
+  Hot fluid Reynolds: 0.0353678
+  Cold fluid Reynolds: 0.0795775
+  Hot fluid Nusselt: 0.124874
+  Cold fluid Nusselt: 3.66
+  Hot fluid HTC: 0.062437 W/m²·K
+  Cold fluid HTC: 58.56 W/m²·K
+  Overall HTC: 0.12437 W/m²·K
+
+Temperature Results:
+  Hot inlet: 373 K (99.85 °C)
+  Hot outlet: 282.439 K (9.28939 °C)
+  Cold inlet: 273 K (-0.15 °C)
+  Cold outlet: 281.26 K (8.10957 °C)
